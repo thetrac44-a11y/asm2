@@ -51,3 +51,5 @@ while True:
         break
     else:
         print("Hãy chọn lại:")
+
+print("Cảm ơn đã sử dụng chương trình!")
