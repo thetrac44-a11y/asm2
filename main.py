@@ -47,7 +47,7 @@ while True:
             print("không tìm thấy sản phẩm để xóa")
 #Thoát
     elif choice == "0":
-        print("Thoát chương trình")
+        print("Thoát chương trình:")
         break
     else:
         print("Hãy chọn lại:")
