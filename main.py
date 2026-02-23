@@ -44,10 +44,10 @@ while True:
         if product_manager.delete_product(code):
             print(" Đã xóa sản phẩm")
         else:
-            print("")
+            print("không tìm thấy sản phẩm để xóa")
 #Thoát
     elif choice == "0":
-        print("Thoát chương trình:")
+        print("Thoát ")
         break
     else:
         print("Hãy chọn lại:")
